@@ -37,24 +37,24 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/epictetus_the-enchiridion_elizabeth-carter</meta>
 		<dc:creator id="author">Epictetus</dc:creator>
 		<meta property="file-as" refines="#author">Epictetus</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Epictetus</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Epictetus</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Elizabeth Carter</dc:contributor>
 		<meta property="file-as" refines="#translator">Carter, Elizabeth</meta>
-		<meta property="se:url.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Elizabeth_Carter</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Elizabeth_Carter</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="compiler">Arrian of Nicomedia</dc:contributor>
 		<meta property="file-as" refines="#compiler">Arrian</meta>
-		<meta property="se:url.wikipedia" refines="#compiler">https://en.wikipedia.org/wiki/Arrian</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#compiler">https://en.wikipedia.org/wiki/Arrian</meta>
 		<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>
 		<dc:contributor id="contributor">George Long</dc:contributor>
 		<meta property="file-as" refines="#contributor">Long, George</meta>
-		<meta property="se:url.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/George_Long_(scholar)</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/George_Long_(scholar)</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Sir Lawrence Alma-Tadema</dc:contributor>
 		<meta property="file-as" refines="#artist">Alma-Tadema, Lawrence</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Internet Classics Archive</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Internet Classics Archive, The</meta>
