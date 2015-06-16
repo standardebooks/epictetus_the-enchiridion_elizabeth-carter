@@ -14,3 +14,7 @@ body[epub|type~="bodymatter z3998:non-fiction"] section{
 abbr.era{
 	font-variant: all-small-caps;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
