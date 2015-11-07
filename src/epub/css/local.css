@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-body[epub|type~="bodymatter z3998:non-fiction"] section{
+body[epub|type~="bodymatter"] section{
 	page-break-after: always;
 }
 
