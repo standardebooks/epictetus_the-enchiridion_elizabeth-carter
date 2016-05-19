@@ -43,23 +43,23 @@
 		<dc:contributor id="translator">Elizabeth Carter</dc:contributor>
 		<meta property="file-as" refines="#translator">Carter, Elizabeth</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Elizabeth_Carter</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50032380.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50032380</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="compiler">Arrian of Nicomedia</dc:contributor>
 		<meta property="file-as" refines="#compiler">Arrian</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#compiler">https://en.wikipedia.org/wiki/Arrian</meta>
-		<meta property="se:url.authority.nacoaf" refines="#compiler">http://id.loc.gov/authorities/names/n79023201.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#compiler">http://id.loc.gov/authorities/names/n79023201</meta>
 		<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>
 		<dc:contributor id="contributor">George Long</dc:contributor>
 		<meta property="file-as" refines="#contributor">Long, George</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/George_Long_(scholar)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n82116302.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n82116302</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Sir Lawrence Alma-Tadema</dc:contributor>
 		<meta property="file-as" refines="#artist">Alma-Tadema, Lawrence</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060123.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79060123</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Internet Classics Archive</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Internet Classics Archive, The</meta>
