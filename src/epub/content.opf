@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/epictetus/the-enchiridion/elizabeth-carter</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-08-28T18:44:05Z</meta>
-		<meta property="se:revision-number">30</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:08Z</meta>
+		<meta property="se:revision-number">32</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -27,8 +27,8 @@
 		<dc:description id="description">A brief handbook of advice for day-to-day living in the Stoic philosophical tradition.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Born a slave and lamed by his master, Epictetus studied Stoic philosophy while in captivity.  Once freed, he survived Domitian&amp;rsquo;s banishment of all philosophers from Rome to settle in Greece, where he founded a school of philosophy.  He quickly rose to prominence as a renowned Stoic scholar and teacher, and even though he was personally friendly with emperors, he kept a simple life.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Enchiridion&lt;/i&gt; is a summary of practical advice compiled by Epictetus&amp;rsquo; student Arrian.  While based on Epictetus&amp;rsquo; lectures, it&amp;rsquo;s not a philosophical treatise as much as it is a short handbook with practical suggestions on how to live a good and satisfying life.  It remained popular for centuries, with translations to different languages completed as early as 1493, and was even a common school text in Scotland during the 18&lt;sup&gt;th&lt;/sup&gt; century.&lt;/p&gt;
+			&lt;p&gt;Born a slave and lamed by his master, Epictetus studied Stoic philosophy while in captivity.  Once freed, he survived Domitian’s banishment of all philosophers from Rome to settle in Greece, where he founded a school of philosophy.  He quickly rose to prominence as a renowned Stoic scholar and teacher, and even though he was personally friendly with emperors, he kept a simple life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Enchiridion&lt;/i&gt; is a summary of practical advice compiled by Epictetus’ student Arrian.  While based on Epictetus’ lectures, it’s not a philosophical treatise as much as it is a short handbook with practical suggestions on how to live a good and satisfying life.  It remained popular for centuries, with translations to different languages completed as early as 1493, and was even a common school text in Scotland during the 18&lt;sup&gt;th&lt;/sup&gt; century.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
