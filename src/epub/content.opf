@@ -26,21 +26,21 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Enchiridion</dc:title>
 		<meta property="file-as" refines="#title">Enchiridion, The</meta>
 		<dc:subject id="subject-1">Ethics, Ancient</dc:subject>
 		<dc:subject id="subject-2">Conduct of life--Early works to 1800</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/2003067499</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/2003067499</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85045098</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2002009926</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">A brief handbook of advice for day-to-day living in the Stoic philosophical tradition.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Born a slave and lamed by his master, Epictetus studied Stoic philosophy while in captivity. Once freed, he survived Domitian’s banishment of all philosophers from Rome to settle in Greece, where he founded a school of philosophy. He quickly rose to prominence as a renowned Stoic scholar and teacher, and even though he was personally friendly with emperors, he kept a simple life.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Enchiridion&lt;/i&gt; is a summary of practical advice compiled by Epictetus’ student Arrian. While based on Epictetus’ lectures, it’s not a philosophical treatise as much as it is a short handbook with practical suggestions on how to live a good and satisfying life. It remained popular for centuries, with translations to different languages completed as early as 1493, and was even a common school text in Scotland during the 18&lt;sup&gt;th&lt;/sup&gt; century.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://classics.mit.edu/Epictetus/epicench.html</dc:source>
 		<meta property="se:word-count">8680</meta>
