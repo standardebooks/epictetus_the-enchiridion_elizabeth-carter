@@ -5,7 +5,7 @@ body[epub|type~="bodymatter"] section{
 	break-after: page;
 }
 
-.signature{
+[epub:type~="z3998:signature"]{
 	font-style: italic;
 	margin-top: 2em;
 	text-align: right;
